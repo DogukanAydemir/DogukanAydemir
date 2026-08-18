@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Üst banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Merhaba,%20Ben%20DoğukanAydemir%20👋&fontSize=35&fontColor=fff&animation=fadeIn&desc=Computer%20Engineering%20Student%20|%20AI%20/%20ML%20Enthusiast&descAlignY=65&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Merhaba,%20Ben%20DoğukanAydemir%20👋&fontSize=35&fontColor=fff&animation=fadeIn&desc=Software%20Engineering%20Student%20|%20AI%20/%20ML%20Enthusiast&descAlignY=65&descSize=18" />
 
 ### AI / ML 
 <img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20-brightgreen?style=for-the-badge" />
