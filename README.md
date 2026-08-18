@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Üst banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Merhaba,%20Ben%20Cengholic%20👋&fontSize=35&fontColor=fff&animation=fadeIn&desc=Computer%20Engineering%20Student%20|%20AI%20/%20ML%20Enthusiast&descAlignY=65&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Merhaba,%20Ben%20DoğukanAydemir%20👋&fontSize=35&fontColor=fff&animation=fadeIn&desc=Computer%20Engineering%20Student%20|%20AI%20/%20ML%20Enthusiast&descAlignY=65&descSize=18" />
 
 ### AI / ML Alanına Tut
 
@@ -11,15 +11,13 @@
 </div>
 
 ```text
-isim:        Cengholic
-rol:         Bilgisayar Mühendisi
-odak:        .NET Core · Spring Boot · Yapay Zeka / Makine Öğrenmesi
-şu_an:       Yeni teknolojiler öğreniyor ve projeler geliştiriyor
-ilgi_alanı:  Backend Geliştirme, AI/ML, Yazılım Mimarisi
+isim:        Doğukan Aydemir
+rol:         Yazılım Mühendisi
+odak:        Yapay Zeka / Makine Öğrenmesi, SQL, Pyhton
+şu_an:       Yeni teknolojiler öğreniyor
+ilgi_alanı:  AI/ML, Yazılım Mimarisi
 ```
 
-- 🎓 3.51 not ortalaması ile Bilgisayar Mühendisliğinden mezun oldum.
-- 💻 **.NET Core** ve **Spring Boot** ile backend geliştirme yapıyorum
 - 🤖 AI / ML alanına derin bir ilgi duyuyorum ve bu alanda kendimi geliştiriyorum
 - 📚 Her gün yeni bir şeyler öğrenmeye devam ediyorum
 - 📫 Bana ulaşmak veya iş birliği yapmak isterseniz aşağıdaki kanallardan iletişime geçebilirsiniz
@@ -34,21 +32,10 @@ ilgi_alanı:  Backend Geliştirme, AI/ML, Yazılım Mimarisi
 
 ### Diller & Frameworkler
 
-<img src="https://skillicons.dev/icons?i=java,cs,python,dotnet,spring,html,css,js" />
+<img src="https://skillicons.dev/icons?i=python" />
 
 ### Veritabanı, Araçlar & AI/ML
 
-<img src="https://skillicons.dev/icons?i=mysql,docker,idea,github,vscode,git,pytorch,tensorflow" />
-
-### İstatistikler
-
-<img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=KULLANICI_ADIN&theme=tokyonight" height="165"/>
-
-### Katkı Grafiği
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=KULLANICI_ADIN&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KULLANICI_ADIN&theme=tokyo-night" />
+<img src="https://skillicons.dev/icons?i=mysql,docker,github,vscode,git,pytorch,tensorflow" />
 
 </div>
